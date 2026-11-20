@@ -4,7 +4,7 @@
 
 坐标苏州，写了十来年代码，运营着一个技术博客 [极客港](https://www.jikegang.com)——写互联网产品观察、折腾记录，以及「这个需求能不能不做」的一些实验。
 
-🚀 手上正在跑的是 **续赚网**：一个围绕抢单与运营的系统，盯盘、抢单、在途风控、运营台，Python 全栈，私有仓库，已经跑在生产环境上。
+🚀 手上正在跑的是 **某抢单网运营台**：一个围绕盯盘、抢单、在途风控和运营后台的系统，Python 全栈，私有仓库，已经跑在生产环境上。
 
 ✍️ 博客跑在 [Typecho](https://github.com/typecho/typecho) + Handsome 主题上。嫌它不够好用，我给它写了三个开源挂件：[天气控件](https://github.com/ElvisLoo/typecho-handsome-weather)（按访客 IP 定位、零 API Key，会下雨也会下雪）、[番茄钟](https://github.com/ElvisLoo/handsome-pomodoro-widget)（绝对时间戳计时，切后台不漂移）、[3D 标签云](https://github.com/ElvisLoo/handsome-tagcloud-3d)（拖拽惯性 + 热度分档 + pjax 自愈）。三个都走「主题 customCss / customJs 注入、零模板改动」的路子，主题升级不会丢。
 
